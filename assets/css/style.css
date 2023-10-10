@@ -205,7 +205,7 @@ header {
 
     .header-row #search-form .search__container .search__back-mobile-btn {
         display: block;
-        background: url("/assets/img/backarrow.svg");
+        background: url("/Diginetica/assets/img/backarrow.svg");
         border: none;
         width: 20px;
         height: 20px;
@@ -226,7 +226,7 @@ header {
     }
 
     .header-row #search-form .search__container .search__reset-mobile-btn {
-        background: url("/assets/img/cleanbtn.svg");
+        background: url("/Diginetica/assets/img/cleanbtn.svg");
         border: none;
         width: 17px;
         height: 17px;
@@ -670,7 +670,7 @@ input[type=number] {
 
 .brand-filter #brand__search .search__brand-reset-btn {
     opacity: 0;
-    background: url("/assets/img/cleanbtn.svg");
+    background: url("/Diginetica/assets/img/cleanbtn.svg");
     border: none;
     width: 17px;
     height: 17px;
@@ -746,7 +746,7 @@ input[type=number] {
 .filter__check:checked + label::before {
     border-color: #7397F5;
     background-color: #7397F5;
-    background-image: url("/assets/img/chekbox.svg");
+    background-image: url("/Diginetica/assets/img/chekbox.svg");
 }
 
 .filter__check:not(:disabled):not(:checked) + label:hover::before {
